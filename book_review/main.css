@@ -1,0 +1,31 @@
+.color{ /*класс*/
+color: darkorange; /*цвет*/
+}
+
+.width{ 
+width: 1200px; /*ширина*/
+}
+
+#widtha{ /*id*/
+    width: 600px;
+    }
+
+.flex{ 
+display: flex; /*гибкость элемента*/
+justify-content: center; /*размещение по центру*/
+}
+
+#shrift{ 
+font-family: TREBUCHET MS; /*шрифт*/
+}
+
+.but{
+    width: 100px;
+    height: 50px; /*высота*/
+    background-color: darkorange; /*цвет кнопки*/
+    color: black; /*цвет текста*/
+    margin-left: 50px; /*смещение кнопки*/
+    }
+    
+
+        
